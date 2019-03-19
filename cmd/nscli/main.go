@@ -21,8 +21,8 @@ import (
 	bankcmd "github.com/cosmos/cosmos-sdk/x/bank/client/cli"
 	bank "github.com/cosmos/cosmos-sdk/x/bank/client/rest"
 	app "github.com/cosmos/sdk-application-tutorial"
-	nsclient "github.com/cosmos/sdk-application-tutorial/x/nameservice/client"
-	nsrest "github.com/cosmos/sdk-application-tutorial/x/nameservice/client/rest"
+	nsclient "github.com/nicholaspai/sdk-application-tutorial/x/nameservice/client"
+	nsrest "github.com/nicholaspai/sdk-application-tutorial/x/nameservice/client/rest"
 )
 
 const (
